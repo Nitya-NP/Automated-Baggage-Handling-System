@@ -23,5 +23,8 @@ This project was developed as a group project during my first year of engineerin
   - Open in CAD software (e.g., Inventor) to view system design.
 - Q_ARM
   - Run the scripts provided to simulate robotic handling scenarios.
- 
+
+# Output of the code
+ <img width="1612" height="277" alt="output" src="https://github.com/user-attachments/assets/bdd43654-c03d-4915-b19d-7015ce174369" />
+
     
